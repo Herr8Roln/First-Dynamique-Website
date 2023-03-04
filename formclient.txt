@@ -1,0 +1,31 @@
+<form>
+<div class="form-group">
+    <label for="exampleInputEmail1">id du client</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Donner id">
+  </div>
+ <div class="form-group">
+    <label for="exampleIn">Nom</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Donner Name">
+  </div>
+ <div class="form-group">
+    <label for="exampl">Prénom</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Donner Prénom">
+  </div>
+ <div class="form-group">
+    <label for="example">Code Postal</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Donner Code Postal">
+  </div>
+<div class="form-group">
+    <label for="exampleInputEmail1">Localité</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Donner Localité">
+  </div>
+<div class="form-group">
+    <label for="exampleInputEmail1">Telephonne</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Donner Telephonne">
+  </div>
+<div class="form-group">
+    <label for="exampleInputEmail1">email</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Donner email">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
